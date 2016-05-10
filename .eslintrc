@@ -1,0 +1,30 @@
+{
+  "extends": "airbnb/base",
+  "ecmaFeatures": {
+    "arrowFunctions": true,
+    "blockBindings": true,
+    "classes": true,
+    "defaultParams": true,
+    "destructuring": true,
+    "forOf": true,
+    "generators": true,
+    "modules": true,
+    "objectLiteralComputedProperties": true,
+    "objectLiteralDuplicateProperties": false,
+    "objectLiteralShorthandMethods": true,
+    "objectLiteralShorthandProperties": true,
+    "restParams": true,
+    "spread": true,
+    "superInFunctions": true,
+    "templateStrings": true,
+    "jsx": true
+  },
+  "rules": {
+    "id-length": 0,
+    "no-unused-expressions": 0,
+    "func-names": 0,
+    "semi": 0,
+    "quotes": 0,
+    "no-shadow": 0
+  }
+}
